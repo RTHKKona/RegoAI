@@ -1,2 +1,4 @@
-# hotdogsalad
-this will be an application that retrieves the latest currency conversion rates and instantly converts the input to the desired currency.
+# RegoAI
+
+> This project is the development of an AI that can play the Blokus board game through algorithms and machine learning.
+
