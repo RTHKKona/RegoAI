@@ -52,7 +52,8 @@ GNU GPLv3
 
 * Find a way to condense games into simplifed form similar to Chess
 * Aggression metre through AI behaviour to limit opponent block verticies
-* 
+* Pattern recognition through learning to block incoming threats and pressure
+* UI/UX
 
 ## Release History
 
