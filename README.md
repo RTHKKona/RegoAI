@@ -4,13 +4,12 @@
 > Through appropriate sorting algorithms and pruning of weaker moves, RegoAI aims to have multiple variables that determine aggression, maximization of perceived area and the blocking of enemy piece vertices.
 > Similar to Stockfish, an evaluation bar will be able to determine the approximate game state for each player.
 
-## Table of Contents
-[Frequently Asked Questions]
-[Release History]
-[Contributions]
-[Bugs]
+## License
+
 
 ## Frequently Asked Questions
+
+## Release History
 
 ## Contributions
 
