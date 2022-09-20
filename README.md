@@ -5,6 +5,10 @@
 > Similar to Stockfish, an evaluation bar will be able to determine the approximate game state for each player.
 
 ## Table of Contents
+[Frequently Asked Questions]
+[Release History]
+[Contributions]
+[Bugs]
 
 ## Frequently Asked Questions
 
