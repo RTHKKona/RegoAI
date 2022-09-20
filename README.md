@@ -4,6 +4,13 @@
 * Through appropriate sorting algorithms and pruning of weaker moves, RegoAI aims to have multiple variables that determine aggression, maximization of perceived area and the blocking of enemy piece vertices.
 * Similar to Stockfish, an evaluation bar will be able to determine the approximate game state for each player.
 
+  * [License](#license)
+  * [Frequently Asked Questions](#frequently-asked-questions)
+  * [Planned Features](#planned-features)
+  * [Release History](#release-history)
+  * [Contributions](#contributions)
+  * [Bugs](#bugs)
+
 ## License
 
 GNU GPLv3
@@ -62,8 +69,8 @@ GNU GPLv3
 
 ## Contributions
 
-> Refer to the Contributing.md file located in the root file of RegoAI.
+Refer to the Contributing.md file located in the root file of RegoAI.
 
 ## Bugs
 
-> Currently no known bugs. (wow)
+Currently no known bugs. (wow)
