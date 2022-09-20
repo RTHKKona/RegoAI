@@ -21,5 +21,8 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 ## Contributions
 
+> Refer to the Contributing.md file located in the root file of RegoAI.
+
 ## Bugs
 
+> Currently no known bugs. (wow)
