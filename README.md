@@ -10,7 +10,7 @@
 
 ## Release History
 
-* 0.0.1
+* 0.0.1 (2022-09-20)
   * Officially began development
 
 ## Contributions
