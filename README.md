@@ -6,10 +6,12 @@
 
 ## License
 
-
 ## Frequently Asked Questions
 
 ## Release History
+
+* 0.0.1
+  * Officially began development
 
 ## Contributions
 
