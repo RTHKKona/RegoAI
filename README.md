@@ -35,7 +35,8 @@
   * minimax 
   * Heuristic Search
   * Multiplayer alpha beta pruning
-  * A* Breadth First Search
+  * Combinatorial Game Theory
+  * A* Depth First Search
 
 * Develop an AutoSolver in the endgame (10 > moves available)
   * Skip function if no moves are available
