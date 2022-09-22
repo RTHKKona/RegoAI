@@ -30,7 +30,7 @@
 
   `(best score is 0; each player starts with 89 points [w])`
 
-* Decide on which algorithm to use (depth/breadth/best first)
+* Decide on which algorithm to use (depth/best first)
   * Monte Carlo Search Tree
   * minimax 
   * Heuristic Search
