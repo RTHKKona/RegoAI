@@ -32,8 +32,8 @@
 
 * Decide on which algorithm to use (depth/best first)
   * Monte Carlo Search Tree
-  * minimax 
-  * Heuristic Search
+  * minimax (4 player ?)
+  * Heuristic Search (Machine Learning)
   * Multiplayer alpha beta pruning
   * Combinatorial Game Theory
   * A* Depth First Search
