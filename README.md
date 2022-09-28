@@ -15,7 +15,7 @@
 
 ### GNU GPLv3
 
-> I *do not own or profit off* of Blokus©, the intellectual property of Mattel© and this project does not reflect the ideas or beliefs of Mattel© or any other intellectual property owned by said corporation. All other product names and associated designs are trademarks and copyrighted properties of their respective owners. ©2013 Mattel. All Rights Reserved.
+> I *do not own or profit off* of Blokus©, the intellectual property of Mattel© and this project does not reflect the ideas or beliefs of Mattel© or any other intellectual property owned by Mattel©. All other product names and associated designs are trademarks and copyrighted properties of their respective owners. ©2013 Mattel. All Rights Reserved.
 >
 
 ## Frequently Asked Questions
