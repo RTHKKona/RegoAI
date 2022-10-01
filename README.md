@@ -64,7 +64,8 @@
 * UI/UX
 
 ## Release History
-
+* 0.0.3 (2022-10-01)
+  * Created red, green, blue, yellow polyomino assets for RegoAI
 * 0.0.2 (2022-09-29)
   * Discussed development plan and gathered advice from university professors on how to execute the project.
 * 0.0.1 (2022-09-20)
