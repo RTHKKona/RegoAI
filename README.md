@@ -19,14 +19,16 @@
 >
 
 ## Frequently Asked Questions
+
 * WIP
 
 ## Planned Features
-* Bound by 20 x 20 tile grid (400 tiles <sup>2</sup> ) 
+
+* Bound by 20 x 20 tile grid (400 tiles <sup>2</sup> )
 * Only allow player starts be from the corner
 * Only allow piece vertex collision
 * Have each piece be its own variable
-* Place all pieces on the board to minimise score 
+* Place all pieces on the board to minimise score
 
   `(best score is 0; each player starts with 89 points [w])`
 
@@ -41,7 +43,8 @@
 * Develop an AutoSolver in the endgame (10 > moves available)
   * Skip function if no moves are available
 
-* **Evaluation algorithm** : 
+* **Evaluation algorithm** :
+
 > Increase "m" score if approaching middle
 >> +1 if in (20 x 20) - (10 x 10) of square
 >>
@@ -49,10 +52,10 @@
 >>
 >> +3 if in the 4 x 4 middle
 >
-> Decrease "p" score when using -5 pieces 
+> Decrease "p" score when using -5 pieces
 > 
 > Increase "e" score if % area of 20x20 where x > 25%
->> Area will always be within 400 t <sup>2</sup> 
+>> Area will always be within 400 t <sup>2</sup>
 >>
 >> Use of integration for wave-like functions or pythagoras for right-angled triangles or length x width
 >>
@@ -64,6 +67,7 @@
 * UI/UX
 
 ## Release History
+
 * 0.0.3 (2022-10-01)
   * Created red, green, blue, yellow polyomino assets for RegoAI
 * 0.0.2 (2022-09-29)
